@@ -1,4 +1,4 @@
-# 📊 Bank Customer Churn Analysis (SQL · Python · Tableau)
+# 📊 Bank Customers Churn Analysis (SQL · Python · Tableau)
 
 ---
 
