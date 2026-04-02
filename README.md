@@ -85,7 +85,7 @@ Here’s a snapshot of the **interactive Tableau dashboard** used in this projec
 ---
 
 ## 📧 Contact
-👤 **Tamsa Karwa**  
+👤 **Bhavya pratap**  
 - LinkedIn: [linkedin.com/in/bhavyapratap17](https://linkedin.com/in/bhavyapratap17)  
 - Email: bhavyapratap766@gmail.com  
 
