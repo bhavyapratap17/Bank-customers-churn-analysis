@@ -84,9 +84,9 @@ Here’s a snapshot of the **interactive Tableau dashboard** used in this projec
 
 ---
 
-## 📧 Contact
-👤 **Bhavya pratap**  
-- LinkedIn: [linkedin.com/in/bhavyapratap17](https://linkedin.com/in/bhavyapratap17)  
-- Email: bhavyapratap766@gmail.com  
+## 📬 Author
+
+👩‍💻 **Bhavya Pratap**  
+📧 [Email](mailto:bhavyapratap766@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/bhavyapratap17) | 🌐 [Portfolio](https://github.com/bhavyapratap17)  
 
 ---
